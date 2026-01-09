@@ -1,0 +1,32 @@
+# Control Alquiler (Android)
+
+Aplicación Android para gestionar casas, pisos, habitaciones y cobros mensuales de alquiler.
+
+## Funcionalidades
+- Gestión de **Casas**
+- Gestión de **Pisos**
+- Gestión de **Habitaciones**
+- Registro de **pagos mensuales**
+- Generación de **siguiente mes**
+- Cálculo de **pendiente total**
+
+## Capturas
+Agrega aquí tus imágenes en la carpeta `/screenshots` y luego enlázalas así:
+
+![Casas](screenshots/casas.jpg)
+![Pisos](screenshots/pisos.jpg)
+![Habitaciones](screenshots/habitaciones.jpg)
+![Detalle](screenshots/detalle.jpg)
+
+## Requisitos
+- Android Studio
+- SDK Android (API 26+ recomendado)
+
+## Cómo compilar
+1. Clona el repo
+2. Abre en Android Studio
+3. Sync Gradle
+4. Run
+
+## APK
+Revisa la sección **Releases** para descargar el APK.
